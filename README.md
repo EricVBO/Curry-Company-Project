@@ -13,7 +13,7 @@ climáticas, avaliação dos entregadores e etc. Apesar da entrega estar
 crescento, em termos de entregas, o CEO não tem visibilidade completa
 dos KPIs de crescimento da empresa.
 
-Fui contratado como um Cientista de Dados para criar soluções de
+Neste projeto de portfólio, fui contratado como um Cientista de Dados para criar soluções de
 dados para entrega, mas antes de treinar algoritmos, a necessidade da
 empresa é ter um os principais KPIs estratégicos organizados em uma
 única ferramenta, para que o CEO possa consultar e conseguir tomar
